@@ -1,0 +1,33 @@
+    #header_div{
+        background-color:saddlebrown ;
+        color:aquamarine;
+    }
+    p{
+        font-family: 'Stalinist One', cursive;
+        font-weight: 300;
+        word-spacing: 1px;
+        font-size: 20px;
+    }
+    #main_div{
+        font-family: 'Stalinist One', cursive;
+        margin-top: 20px;
+        word-spacing: 1cm;
+    }
+    #startbutton{
+        width: 50px;
+        font-weight: 400;
+    }
+    .copy_right_footer{
+        background-color: black;
+        color: aliceblue;
+        width: 100%;
+        font-size:30px ;
+        line-height: 3;
+        text-shadow: 8px;
+        bottom: 0;
+        position: fixed;
+    }
+    body{
+        text-align: center;
+        background-color:green;
+    }
